@@ -1,0 +1,29 @@
+.d1{
+	background-color:black;
+	height:70px;
+	width:100%;
+}
+.d2{
+	background-color:red;
+	height:500px;
+	width:100%;
+}
+.d3{
+	background-color:green;
+	height:500px;
+	width:300px;
+}
+.d4{
+	background-color:purple;
+	height:200px;
+	width:100%;
+}
+.d5{
+	background-color:yellow;
+	height:200px;
+	width:33%;
+	margin-left:33%;
+}
+body{
+	margin:0px;
+}
