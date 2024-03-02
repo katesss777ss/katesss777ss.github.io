@@ -1,0 +1,22 @@
+body{
+    background-color: burlywood;
+}
+.a1{
+    color: white;
+    font-family: cursive;
+}
+
+p{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.f7{
+    color: rgba(255, 255, 255, 0.644);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px; 
+}
+.b9{
+    width: 100px;
+    height: 50px;
+}
