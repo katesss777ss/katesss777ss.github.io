@@ -1,0 +1,20 @@
+body{
+    background-color:#04202C;
+}
+h1{
+    color:#c9d1c8;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color:#c9d1c8;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+audio{
+   box-shadow: 0px 0px 40px #5b7065;
+   border-radius:45px;
+   width: 500px;
+}
+.m1{
+    width: 200px;
+    height:200px;
+}
