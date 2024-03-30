@@ -1,0 +1,45 @@
+.priklad{
+    background: linear-gradient(to right,red,purple);
+    width: 400px;
+    height: 300px;
+    color:white;
+    font-size: 25px;
+    margin:50px auto;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.5s ease;
+}
+.anim1:hover{
+    box-shadow: 0px 0px 0px 20px blue inset;
+}
+.anim2:hover{
+  opacity: 1;
+}
+.anim2{
+    opacity: 0.5;
+}
+.anim3:hover{
+    transform: scale(1.2,1.2);
+}
+.anim4:hover{
+    border-radius: 100px;
+   width: 450px;
+}
+.anim5:hover{
+    transform: rotate(25deg);
+    margin:100px auto;
+}
+.k6{
+animation: anime 2s ease 1s infinite;
+}
+@keyframes  anime {
+    0%{
+        transform: rotateZ(0deg);
+    }
+   
+    100%{
+        transform: rotateZ(360deg);
+    }
+}
